@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+SQLAlchemy>=2.0
+asyncpg
+python-dotenv
+pydantic
+pydantic-settings
+passlib[bcrypt]
+pyjwt
